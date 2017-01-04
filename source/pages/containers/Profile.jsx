@@ -17,4 +17,4 @@ class Profile extends Component {
     }
 }
 
-export default About
+export default Profile
